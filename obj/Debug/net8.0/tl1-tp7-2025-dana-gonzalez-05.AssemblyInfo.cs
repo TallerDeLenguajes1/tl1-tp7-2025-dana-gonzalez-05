@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tl1-tp7-2025-dana-gonzalez-05")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5ea3936b585d8489df434b19c5575209ef79649")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4396ce9b3bebedb8fbc14a25078c9c4122dcf729")]
 [assembly: System.Reflection.AssemblyProductAttribute("tl1-tp7-2025-dana-gonzalez-05")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tl1-tp7-2025-dana-gonzalez-05")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
