@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\taller111\\tl1-tp7-2025-dana-gonzalez-05\\tl1-tp7-2025-dana-gonzalez-05.csproj": {}
+    "c:\\taller111\\tl1-tp7-2025-dana-gonzalez-05\\tl1-tp7-2025-dana-gonzalez-05.csproj": {}
   },
   "projects": {
-    "C:\\taller111\\tl1-tp7-2025-dana-gonzalez-05\\tl1-tp7-2025-dana-gonzalez-05.csproj": {
+    "c:\\taller111\\tl1-tp7-2025-dana-gonzalez-05\\tl1-tp7-2025-dana-gonzalez-05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\taller111\\tl1-tp7-2025-dana-gonzalez-05\\tl1-tp7-2025-dana-gonzalez-05.csproj",
+        "projectUniqueName": "c:\\taller111\\tl1-tp7-2025-dana-gonzalez-05\\tl1-tp7-2025-dana-gonzalez-05.csproj",
         "projectName": "tl1-tp7-2025-dana-gonzalez-05",
-        "projectPath": "C:\\taller111\\tl1-tp7-2025-dana-gonzalez-05\\tl1-tp7-2025-dana-gonzalez-05.csproj",
+        "projectPath": "c:\\taller111\\tl1-tp7-2025-dana-gonzalez-05\\tl1-tp7-2025-dana-gonzalez-05.csproj",
         "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-        "outputPath": "C:\\taller111\\tl1-tp7-2025-dana-gonzalez-05\\obj\\",
+        "outputPath": "c:\\taller111\\tl1-tp7-2025-dana-gonzalez-05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
